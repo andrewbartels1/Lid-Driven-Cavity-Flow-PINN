@@ -1,5 +1,6 @@
 # data files >> see onedrive folder download
 ./data/Re*
+src/runs/*
 *.mat
 *.txt
 __pycache__/
